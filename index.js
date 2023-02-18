@@ -1,4 +1,5 @@
 let a = document.getElementById("contentBox");
+a.innerHTML = "<h2>Start Your Burger Journey NOW!</h2>";
 let obj1 = { order_status: false, paid: false };
 let flag = false;
 
